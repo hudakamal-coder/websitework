@@ -485,6 +485,15 @@ font-size: 12px;
 .sec-5{
     height: 450px;
 }
+.sec-7 .card1-s{
+   
+    height: 358px;
+}
+.sec-7 .card2-s{
+    background-color: orange;
+    color: #fff;
+    height: 358px;
+}
 }
 
 @media only screen and  (min-width:550px) and  (max-width:600px){
@@ -587,6 +596,15 @@ font-size: 10px;
 .sec-5{
     height: 450px;
 }
+.sec-7 .card1-s{
+   
+    height: 358px;
+}
+.sec-7 .card2-s{
+    background-color: orange;
+    color: #fff;
+    height: 358px;
+}
 }
 
 
@@ -643,6 +661,19 @@ font-size: 10px;
 .sec-7 .img-service{
     margin-left: 20px;
 }
+iframe{
+    width: 400px;
+    margin-left: -100px;
+ }
+ .sec-7 .card1-s{
+   
+    height: 358px;
+}
+.sec-7 .card2-s{
+    background-color: orange;
+    color: #fff;
+    height: 358px;
+}
 }
  
 
@@ -658,7 +689,7 @@ font-size: 10px;
     }
      .img-mission{
     position: absolute;
-    top:1500px;
+    top:2355px;
     border: 10px solid orange;
     left: 10px;
     width: 150px;
@@ -699,7 +730,15 @@ font-size: 10px;
 .sec-5{
     height: 450px;
 }
-
+.sec-7 .card1-s{
+   
+    height: 358px;
+}
+.sec-7 .card2-s{
+    background-color: orange;
+    color: #fff;
+    height: 358px;
+}
 .sec-7 .img-service{
     margin-left: 20px;
 }
@@ -709,6 +748,10 @@ font-size: 10px;
     margin-left: -183px;
     margin-top: 100px;
 
+ }
+ iframe{
+    width: 400px;
+    margin-left: -100px;
  }
 }
  
@@ -725,6 +768,15 @@ font-size: 10px;
         top: 1980px;
         border: 10px solid orange;
     }
+    .sec-7 .card1-s{
+   
+    height: 358px;
+}
+.sec-7 .card2-s{
+    background-color: orange;
+    color: #fff;
+    height: 358px;
+}
      .img-mission{
     position: absolute;
     top: 2400px;
@@ -778,6 +830,10 @@ font-size: 10px;
     margin-left: -183px;
     margin-top: 100px;
 
+ }
+ iframe{
+    width: 400px;
+    margin-left: -100px;
  }
 }
  
