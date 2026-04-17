@@ -1,0 +1,247 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} 
+ 
+.navbar-brand img{
+ margin-top: -5px;
+
+}
+.logoweb{
+  background: linear-gradient(to right ,#e66465, #303143);
+}
+.logoweb h3{
+    color: white;
+    font-weight: bolder;
+}
+ .navbar{
+    background-color:#fff;
+}
+.nav-item .active{
+    font-weight: bold;
+}
+
+
+.nav-item .nav-link.active:hover{
+color: orange;
+}
+
+ 
+.call{
+    text-decoration: none;
+    border: 1px solid orange;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: rgb(255, 111, 0);
+}
+.c-item{
+    height: 500px;
+}
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter:brightness(0.6);
+}
+
+.overview{
+    height: 120px;
+    background-color: rgb(236, 232, 232);
+ }
+
+ .mssb{
+    color: orange;
+    font-weight: bolder;
+ }
+ .modal-title{
+    font-weight: bolder;
+    color: orangered;
+ }
+ .modal-body h2{
+   color: orange;
+    font-weight: bolder;  
+ }
+
+ .about{
+    border-radius: 6px;
+    margin-top: 30px;
+   
+ }
+.sec-3{
+background-color: rgb(205, 203, 203);
+ }
+ .hood{
+    border-radius: 8px;
+    margin-left: 50px;
+
+ }
+ 
+ .hood-aboute{
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 100px;
+
+ }
+ 
+ .about0{
+    height: 1000px;
+ }
+ .abouttext{
+     font-size: 38px;
+    font-weight: 700;
+    color: black;
+    text-shadow: 0px 1px 1px black;
+ }
+  
+ .abouttext span{
+    color: orange;
+     font-size: 38px;
+    font-weight: 700;
+    }
+    .sec-4 h2{
+        font-family: cursive;
+        color: orange;
+    }
+    .sec-4 p{
+        font-weight: bold;
+        word-spacing: 3px;
+    }
+
+    .img-vission{
+        position: absolute;
+        left: 850px;
+        top: 1400px;
+        border: 10px solid orange;
+    }
+.sec-5{
+    background-color:rgb(205, 203, 203) ;
+    height: 350px;
+}
+
+.mission{
+    position: absolute;
+    top:1680px ;
+    left:800px ;
+     font-family: cursive;
+        color: orange;
+}
+.p-mission{
+    position: absolute;
+    top:1750px ;
+     font-weight: bold;
+        word-spacing: 3px;
+}
+.img-mission{
+    position: absolute;
+    top: 1700px;
+  border: 10px solid orange;
+}
+
+.sec-6 h2{
+    font-size: 38px;
+    font-weight: 700;
+    color: black;
+    text-shadow: 0px 1px 1px black;
+}
+
+.sec-6 span{
+    color: orange;
+}
+
+.sec-7 .img-service{
+    margin-left: 95px;
+}
+.sec-7 .card1{
+   
+    height: 358px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 358px;
+}
+
+.sec-7 span{
+    color: orange;
+}
+.sec-7 h2{
+   font-size: 38px;
+    font-weight: 700;
+    color: black;
+    text-shadow: 0px 1px 1px black;
+}
+
+.footer{
+    color: white;
+    height: 500px;
+    background-color: #9a9da2;
+
+}
+
+.footer .footer-panel1 .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.footer .footer-panel1 .logo img{
+    margin-top: 15px;
+}
+.footer .footer-panel2 .logo-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.footer .footer-panel2 .logo-name h2{
+    margin-top: -30px;
+}
+
+.footer .footer-panel3 .contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    color: #e66465;
+}
+
+.footer .footer-panel3 .cont2{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder; 
+}
+.footer .footer-panel3 .cont2 span{
+    margin: 15px;
+    font-size: 20px;
+    color: black;
+}
+.footer .footer-panel3 .cont2 span:hover{
+    
+     color: orange;
+     cursor: pointer;
+}
+.footer .footer-panel4 .copyright{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.f-ser{
+    margin-top: 400px;
+}
+.f-ab{
+     margin-top: 300px;
+     
+}
+.f-con{
+    margin-top: 250px;
+}
+.footer .footer-panel4 .copyright p{
+    margin-top: 40px;
+}
+
+ 

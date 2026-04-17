@@ -1,0 +1,786 @@
+@media only screen and  (min-width:1125px) and  (max-width:1250px){
+ .img-vission{
+        position: absolute;
+        left: 850px;
+        top: 1450px;
+        border: 10px solid orange;
+    }
+
+.mission{
+    position: absolute;
+    top:1700px ;
+    left:800px ;
+     font-family: cursive;
+    color: orange;
+}
+.img-mission{
+    position: absolute;
+    top: 1750px;
+    border: 10px solid orange;
+}
+.sec-7 .card1{
+   
+    height: 410px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 410px;
+}
+}
+
+@media only screen and  (min-width:1077px) and  (max-width:1125px){
+
+.img-mission{
+    position: absolute;
+    top: 1800px;
+    border: 10px solid orange;
+}
+.sec-7 .card1{
+   
+    height: 420px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 420px;
+}
+}
+
+@media only screen and  (min-width:1000px) and  (max-width:1077px){
+
+.img-mission{
+    position: absolute;
+    top: 1850px;
+    border: 10px solid orange;
+}
+
+.mission{
+    position: absolute;
+    top:1670px ;
+    left:550px ;
+     font-family: cursive;
+    color: orange;
+}
+.img-vission{
+        position: absolute;
+        left: 750px;
+        top: 1450px;
+        border: 10px solid orange;
+    }
+    .sec-7 .card1{
+   
+    height: 415px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 415px;
+}
+}
+
+@media only screen and  (min-width:992px) and  (max-width:1000px){
+ .img-vission{
+        position: absolute;
+        left: 700px;
+        top: 1450px;
+        border: 10px solid orange;
+    }
+.mission{
+    position: absolute;
+    top:1670px ;
+    left:500px ;
+     font-family: cursive;
+    color: orange;
+}
+.img-mission{
+    position: absolute;
+    top: 1850px;
+    border: 10px solid orange;
+}
+ .sec-7 .card1{
+   
+    height: 410px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 410px;
+}
+}
+
+@media only screen and  (min-width:900px) and  (max-width:1000px){
+.about{
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-right: 10px;
+ }
+  .img-vission{
+        position: absolute;
+        left: 700px;
+        top: 1500px;
+        border: 10px solid orange;
+    }
+    .img-mission{
+    position: absolute;
+    top: 1950px;
+    border: 10px solid orange;
+    }
+.p-mission{
+margin-left: -90px;
+}
+.mission{
+    position: absolute;
+    top:1700px ;
+    left:480px ;
+     font-family: cursive;
+    color: orange;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+  
+}
+
+@media only screen and  (min-width:860px) and  (max-width:900px){
+ .img-vission{
+        position: absolute;
+        left: 650px;
+        top: 1500px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 1917px;
+    border: 10px solid orange;
+    }
+    .mission{
+    position: absolute;
+    top:1700px ;
+    left:390px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+margin-left: -80px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+}
+
+
+
+@media only screen and  (min-width:830px) and  (max-width:860px){
+ .img-vission{
+        position: absolute;
+        left: 640px;
+        top: 1500px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 1917px;
+    border: 10px solid orange;
+    left: 40px;
+    }
+    .mission{
+    position: absolute;
+    top:1700px ;
+    left:450px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+margin-left: -50px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+}
+
+@media only screen and  (min-width:800px) and  (max-width:830px){
+ .img-vission{
+        position: absolute;
+        left: 600px;
+        top: 1500px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 1917px;
+    border: 10px solid orange;
+    left: 40px;
+    }
+    .mission{
+    position: absolute;
+    top:1700px ;
+    left:400px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+margin-left: -30px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+.hood{
+    margin-left: 30px;
+}
+}
+
+@media only screen and  (min-width:770px) and  (max-width:800px){
+ .img-vission{
+        position: absolute;
+        left: 580px;
+        top: 1500px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 1917px;
+    border: 10px solid orange;
+    left: 40px;
+    }
+    .mission{
+    position: absolute;
+    top:1700px ;
+    left:400px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+margin-left: -30px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+.hood{
+    margin-left: 30px;
+}
+}
+
+
+@media only screen and  (min-width:750px) and  (max-width:770px){
+ .img-vission{
+        position: absolute;
+        left: 530px;
+        top: 1600px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 1940px;
+    border: 10px solid orange;
+    left: 20px;
+    }
+    .mission{
+    position: absolute;
+    top:1805px ;
+    left:350px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 110px;
+margin-left: -70px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+.hood{
+    margin-left: -20px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 450px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 450px;
+}
+}
+
+
+@media only screen and  (min-width:700px) and  (max-width:750px){
+ .img-vission{
+        position: absolute;
+        left: 500px;
+        top: 1650px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2050px;
+    border: 10px solid orange;
+    left: 10px;
+    }
+    .mission{
+    position: absolute;
+    top:1810px ;
+    left:300px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 110px;
+margin-left: -50px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 14px;
+}
+.hood{
+    margin-left: -20px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 450px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 450px;
+}
+.sec-5{
+    height: 400px;
+}
+}
+
+
+
+
+@media only screen and  (min-width:650px) and  (max-width:700px){
+ .img-vission{
+        position: absolute;
+        left: 460px;
+        top: 1650px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2050px;
+    border: 10px solid orange;
+    left: 10px;
+    }
+    .mission{
+    position: absolute;
+    top:1875px ;
+    left:300px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 180px;
+margin-left: -30px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 13px;
+}
+.hood{
+    margin-left: -55px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 450px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 450px;
+}
+.sec-5{
+    height: 450px;
+}
+}
+
+
+
+
+@media only screen and  (min-width:600px) and  (max-width:650px){
+ .img-vission{
+        position: absolute;
+        left: 420px;
+        top: 1650px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2050px;
+    border: 10px solid orange;
+    left: 10px;
+    }
+    .mission{
+    position: absolute;
+    top:1875px ;
+    left:250px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 180px;
+margin-left: -30px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 12px;
+}
+.hood{
+    margin-left: -80px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 450px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 450px;
+}
+.sec-5{
+    height: 450px;
+}
+}
+
+@media only screen and  (min-width:550px) and  (max-width:600px){
+ .img-vission{
+        position: absolute;
+        left: 380px;
+        top: 1650px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2090px;
+    border: 10px solid orange;
+    left: 10px;
+    }
+    .mission{
+    position: absolute;
+    top:1875px ;
+    left:220px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 180px;
+margin-left: -30px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 11px;
+}
+.hood{
+    margin-left: -100px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 450px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 450px;
+}
+.sec-5{
+    height: 450px;
+}
+}
+
+@media only screen and  (min-width:500px) and  (max-width:550px){
+ .img-vission{
+        position: absolute;
+        left: 320px;
+        top: 1720px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2180px;
+    border: 10px solid orange;
+    left: 10px;
+    }
+    .mission{
+    position: absolute;
+    top:1950px ;
+    left:180px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 250px;
+margin-left: -30px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 10px;
+}
+.hood{
+    margin-left: -130px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 490px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 490px;
+}
+.sec-5{
+    height: 450px;
+}
+}
+
+
+@media only screen and  (min-width:450px) and  (max-width:500px){
+ .img-vission{
+        position: absolute;
+        left: 280px;
+        top: 1900px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2300px;
+    border: 10px solid orange;
+    left: 10px;
+    }
+    .mission{
+    position: absolute;
+    top:2100px ;
+    left:120px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 400px;
+margin-left: -110px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 140px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 10px;
+}
+.hood{
+    margin-left:-215px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height: 600px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height: 600px;
+}
+.sec-5{
+    height: 450px;
+}
+
+.sec-7 .img-service{
+    margin-left: 20px;
+}
+}
+ 
+
+@media only screen and  (min-width:400px) and  (max-width:450px){
+    .navbar-brand h3{
+        margin-left: -20px;
+    }
+ .img-vission{
+        position: absolute;
+        left: 220px;
+        top: 1980px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top:1500px;
+    border: 10px solid orange;
+    left: 10px;
+    width: 150px;
+    }
+    .mission{
+    position: absolute;
+    top:2180px ;
+    left:70px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 480px;
+margin-left: -110px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 110px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 10px;
+}
+.hood{
+    margin-left:-215px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height:700px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height:700px;
+}
+.sec-5{
+    height: 450px;
+}
+
+.sec-7 .img-service{
+    margin-left: 20px;
+}
+
+ .hood-aboute{
+    border-radius: 8px;
+    margin-left: -183px;
+    margin-top: 100px;
+
+ }
+}
+ 
+
+
+
+@media only screen and  (min-width:350px) and  (max-width:400px){
+    .navbar-brand h3{
+        margin-left: -20px;
+    }
+ .img-vission{
+        position: absolute;
+        left: 220px;
+        top: 1980px;
+        border: 10px solid orange;
+    }
+     .img-mission{
+    position: absolute;
+    top: 2400px;
+    border: 10px solid orange;
+    left: 10px;
+    width: 130px;
+    }
+    .mission{
+    position: absolute;
+    top:2180px ;
+    left:70px ;
+     font-family: cursive;
+    color: orange;
+}
+.p-mission{
+    margin-top: 480px;
+margin-left: -110px;
+}
+.sec-7 .card3{
+    margin-top: 20px;
+    margin-left: 110px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 10px;
+}
+.hood{
+    margin-left:-215px;
+}
+.sec-3 .about{
+    margin-left: -28px;
+}
+.sec-7 .card1{
+   
+    height:700px;
+}
+.sec-7 .card2{
+    background-color: orange;
+    color: #fff;
+    height:700px;
+}
+.sec-5{
+    height: 450px;
+}
+
+.sec-7 .img-service{
+    margin-left: 20px;
+}
+
+ .hood-aboute{
+    border-radius: 8px;
+    margin-left: -183px;
+    margin-top: 100px;
+
+ }
+}
+ 
+
+
+
