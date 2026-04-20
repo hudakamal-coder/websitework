@@ -1,842 +1,430 @@
-@media only screen and  (min-width:1125px) and  (max-width:1250px){
- .img-vission{
-        position: absolute;
-        left: 850px;
-        top: 1450px;
-        border: 10px solid orange;
-    }
 
-.mission{
-    position: absolute;
-    top:1700px ;
-    left:800px ;
-     font-family: cursive;
-    color: orange;
+@media only screen and  (min-width:1700px) and  (max-width:2000px){
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 290px;
+width: 550px;
 }
-.img-mission{
-    position: absolute;
-    top: 1750px;
-    border: 10px solid orange;
+ 
 }
-.sec-7 .card1{
-   
-    height: 410px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 410px;
+@media only screen and  (min-width:1500px) and  (max-width:1700px){
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 190px;
+width: 550px;
 }
 }
-
-@media only screen and  (min-width:1077px) and  (max-width:1125px){
-
-.img-mission{
-    position: absolute;
-    top: 1800px;
-    border: 10px solid orange;
+@media only screen and  (min-width:1400px) and  (max-width:1500px){
+ .sec-3{
+background-color: rgb(205, 203, 203);
+height: 305px;
+  
 }
-.sec-7 .card1{
-   
-    height: 420px;
+ .p-about{
+    margin-top: 20px;
 }
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 420px;
+ 
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 230px;
+width: 455px;
 }
 }
 
-@media only screen and  (min-width:1000px) and  (max-width:1077px){
-
-.img-mission{
-    position: absolute;
-    top: 1850px;
-    border: 10px solid orange;
+@media only screen and  (min-width:1200px) and  (max-width:1400px){
+ .sec-3{
+background-color: rgb(205, 203, 203);
+height: 305px;
+  
+}
+ .p-about{
+    margin-top: 20px;
+}
+ 
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 130px;
+width: 455px;
+}
 }
 
-.mission{
-    position: absolute;
-    top:1670px ;
-    left:550px ;
-     font-family: cursive;
-    color: orange;
+@media only screen and  (min-width:1095px) and  (max-width:1200px){
+ .sec-3{
+background-color: rgb(205, 203, 203);
+height: 305px;
+  
 }
-.img-vission{
-        position: absolute;
-        left: 750px;
-        top: 1450px;
-        border: 10px solid orange;
-    }
-    .sec-7 .card1{
-   
-    height: 415px;
+ .p-about{
+    margin-top: 20px;
 }
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 415px;
+ 
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 80px;
+width: 455px;
+}
+}
+
+@media only screen and  (min-width:1053px) and  (max-width:1095px){
+ .sec-3{
+background-color: rgb(205, 203, 203);
+height: 305px;
+  
+}
+ .p-about{
+    margin-top: 20px;
+}
+ 
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 60px;
+width: 455px;
+}
+}
+
+@media only screen and  (min-width:1000px) and  (max-width:1053px){
+ .sec-3{
+background-color: rgb(205, 203, 203);
+height: 305px;
+  
+}
+ .p-about{
+    margin-top: 20px;
+}
+ 
+.sec-3 .image{
+margin-top: -23px; 
+margin-left: 28px;
+width: 455px;
 }
 }
 
 @media only screen and  (min-width:992px) and  (max-width:1000px){
- .img-vission{
-        position: absolute;
-        left: 700px;
-        top: 1450px;
-        border: 10px solid orange;
-    }
-.mission{
-    position: absolute;
-    top:1670px ;
-    left:500px ;
-     font-family: cursive;
-    color: orange;
+  
+.sec-3 .image{
+margin-top: -18px; 
+margin-left: 28px;
+width: 455px;
 }
-.img-mission{
-    position: absolute;
-    top: 1850px;
-    border: 10px solid orange;
+.seccontact iframe{
+    margin-left: -150px;
 }
- .sec-7 .card1{
-   
-    height: 410px;
+.p-about{
+    margin-top: 15px;
 }
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 410px;
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 310px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+.sec-7 .card-1-1{
+    margin-top: 10px;
+    margin-left: 180px;
+}
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 350px;
 }
 }
 
-@media only screen and  (min-width:900px) and  (max-width:1000px){
-.about{
-    border-radius: 6px;
-    margin-top: 30px;
-    margin-right: 10px;
- }
-  .img-vission{
-        position: absolute;
-        left: 700px;
-        top: 1500px;
-        border: 10px solid orange;
-    }
-    .img-mission{
-    position: absolute;
-    top: 1950px;
-    border: 10px solid orange;
-    }
-.p-mission{
-margin-left: -90px;
+
+@media only screen and  (min-width:940px) and  (max-width:992px){
+  
+.sec-3 .image{
+margin-top: 25px; 
+margin-left: 28px;
+width: 550px;
 }
-.mission{
-    position: absolute;
-    top:1700px ;
-    left:480px ;
-     font-family: cursive;
-    color: orange;
+.seccontact iframe{
+    margin-left: -150px;
 }
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
+.abouttext{
+    margin-top: -10px;
+}
+.p-about{
+    margin-top: -10px;
+}
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 350px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+ 
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+}
+
+
+@media only screen and  (min-width:900px) and  (max-width:940px){
+  
+.sec-3 .image{
+ display: none;
+}
+.seccontact iframe{
+    margin-left: -120px;
+    width: 460px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 350px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+ 
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+}
+@media only screen and  (min-width:850px) and  (max-width:900px){
+  
+.sec-3 .image{
+ display: none;
+}
+.seccontact iframe{
+    margin-left: -120px;
+    width: 460px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 350px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+ 
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+}
+
+ @media only screen and  (min-width:800px) and  (max-width:850px){
+  
+.sec-3 .image{
+ display: none;
+}
+.seccontact iframe{
+    margin-left: -120px;
+    width: 460px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 350px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
+}
+ 
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+}
+ 
+
+@media only screen and  (min-width:750px) and  (max-width:800px){
+    
+.sec-3 .image{
+ display: none;
+}
+.p-about{
+    margin-top: -10px;
+}
+.seccontact iframe{
+    margin-left: -120px;
+    width: 460px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 380px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 16px;
 }
   
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 150px;
 }
+}
+ 
 
-@media only screen and  (min-width:860px) and  (max-width:900px){
- .img-vission{
-        position: absolute;
-        left: 650px;
-        top: 1500px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 1917px;
-    border: 10px solid orange;
-    }
-    .mission{
-    position: absolute;
-    top:1700px ;
-    left:390px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-margin-left: -80px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 16px;
-}
-}
-
-
-
-@media only screen and  (min-width:830px) and  (max-width:860px){
- .img-vission{
-        position: absolute;
-        left: 640px;
-        top: 1500px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 1917px;
-    border: 10px solid orange;
-    left: 40px;
-    }
-    .mission{
-    position: absolute;
-    top:1700px ;
-    left:450px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-margin-left: -50px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 16px;
-}
-}
-
-@media only screen and  (min-width:800px) and  (max-width:830px){
- .img-vission{
-        position: absolute;
-        left: 600px;
-        top: 1500px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 1917px;
-    border: 10px solid orange;
-    left: 40px;
-    }
-    .mission{
-    position: absolute;
-    top:1700px ;
-    left:400px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-margin-left: -30px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 16px;
-}
-.hood{
-    margin-left: 30px;
-}
-}
-
-@media only screen and  (min-width:770px) and  (max-width:800px){
- .img-vission{
-        position: absolute;
-        left: 580px;
-        top: 1500px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 1917px;
-    border: 10px solid orange;
-    left: 40px;
-    }
-    .mission{
-    position: absolute;
-    top:1700px ;
-    left:400px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-margin-left: -30px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 16px;
-}
-.hood{
-    margin-left: 30px;
-}
-}
-
-
-@media only screen and  (min-width:750px) and  (max-width:770px){
- .img-vission{
-        position: absolute;
-        left: 530px;
-        top: 1600px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 1940px;
-    border: 10px solid orange;
-    left: 20px;
-    }
-    .mission{
-    position: absolute;
-    top:1805px ;
-    left:350px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-    margin-top: 110px;
-margin-left: -70px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 16px;
-}
-.hood{
-    margin-left: -20px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 450px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 450px;
-}
-}
 
 
 @media only screen and  (min-width:700px) and  (max-width:750px){
- .img-vission{
-        position: absolute;
-        left: 500px;
-        top: 1650px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 2050px;
-    border: 10px solid orange;
-    left: 10px;
-    }
-    .mission{
-    position: absolute;
-    top:1810px ;
-    left:300px ;
-     font-family: cursive;
-    color: orange;
+    
+.sec-3 .image{
+  display: none;
 }
-.p-mission{
-    margin-top: 110px;
-margin-left: -50px;
+.p-about{
+    margin-top: -10px;
 }
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
+.seccontact iframe{
+    margin-left: -120px;
+    width: 460px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 380px;
 }
 .footer .footer-panel3 .cont2 span{
 font-size: 14px;
 }
-.hood{
-    margin-left: -20px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 450px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 450px;
-}
-.sec-5{
-    height: 400px;
+  
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 150px;
 }
 }
-
-
 
 
 @media only screen and  (min-width:650px) and  (max-width:700px){
- .img-vission{
-        position: absolute;
-        left: 460px;
-        top: 1650px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 2050px;
-    border: 10px solid orange;
-    left: 10px;
-    }
-    .mission{
-    position: absolute;
-    top:1875px ;
-    left:300px ;
-     font-family: cursive;
-    color: orange;
+    
+.sec-3 .image{
+  display: none;
 }
-.p-mission{
-    margin-top: 180px;
-margin-left: -30px;
+.p-about{
+    margin-top: -10px;
 }
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
+.seccontact iframe{
+    margin-left: 60px;
+    width: 330px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 380px;
 }
 .footer .footer-panel3 .cont2 span{
 font-size: 13px;
 }
-.hood{
-    margin-left: -55px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 450px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 450px;
-}
-.sec-5{
-    height: 450px;
+  
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left: 150px;
 }
 }
 
 
-
-
-@media only screen and  (min-width:600px) and  (max-width:650px){
- .img-vission{
-        position: absolute;
-        left: 420px;
-        top: 1650px;
-        border: 10px solid orange;
+@media only screen and  (min-width:430px) and  (max-width:500px){
+    .part-about{
+        background-image: none;
+ background-color:#1C398E;
     }
-     .img-mission{
-    position: absolute;
-    top: 2050px;
-    border: 10px solid orange;
-    left: 10px;
-    }
-    .mission{
-    position: absolute;
-    top:1875px ;
-    left:250px ;
-     font-family: cursive;
-    color: orange;
+    .part-about2{
+    background-color: rgb(244, 242, 242);
+    height: 1800px;
 }
-.p-mission{
-    margin-top: 180px;
-margin-left: -30px;
+ .value{
+    border-radius: 8px;
+    height: 630px;
+    background-color: rgb(235, 233, 233);
+  }
+.sec-3 .image{
+  display: none;
 }
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
+.p-about{
+    margin-top: -10px;
+}
+.seccontact iframe{
+    margin-left: 60px;
+    width: 330px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ 
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 380px;
 }
 .footer .footer-panel3 .cont2 span{
 font-size: 12px;
 }
-.hood{
-    margin-left: -80px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 450px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 450px;
-}
-.sec-5{
-    height: 450px;
-}
-.sec-7 .card1-s{
-   
-    height: 358px;
-}
-.sec-7 .card2-s{
-    background-color: orange;
-    color: #fff;
-    height: 358px;
-}
-}
-
-@media only screen and  (min-width:550px) and  (max-width:600px){
- .img-vission{
-        position: absolute;
-        left: 380px;
-        top: 1650px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 2090px;
-    border: 10px solid orange;
-    left: 10px;
-    }
-    .mission{
-    position: absolute;
-    top:1875px ;
-    left:220px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-    margin-top: 180px;
-margin-left: -30px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 11px;
-}
-.hood{
-    margin-left: -100px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 450px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 450px;
-}
-.sec-5{
-    height: 450px;
-}
-}
-
-@media only screen and  (min-width:500px) and  (max-width:550px){
- .img-vission{
-        position: absolute;
-        left: 320px;
-        top: 1720px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 2180px;
-    border: 10px solid orange;
-    left: 10px;
-    }
-    .mission{
-    position: absolute;
-    top:1950px ;
-    left:180px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-    margin-top: 250px;
-margin-left: -30px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 160px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 10px;
-}
-.hood{
-    margin-left: -130px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 490px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 490px;
-}
-.sec-5{
-    height: 450px;
-}
-.sec-7 .card1-s{
-   
-    height: 358px;
-}
-.sec-7 .card2-s{
-    background-color: orange;
-    color: #fff;
-    height: 358px;
-}
-}
-
-
-@media only screen and  (min-width:450px) and  (max-width:500px){
- .img-vission{
-        position: absolute;
-        left: 280px;
-        top: 1900px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top: 2300px;
-    border: 10px solid orange;
-    left: 10px;
-    }
-    .mission{
-    position: absolute;
-    top:2100px ;
-    left:120px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-    margin-top: 400px;
-margin-left: -110px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 140px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 10px;
-}
-.hood{
-    margin-left:-215px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height: 600px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 600px;
-}
-.sec-5{
-    height: 450px;
-}
-
-.sec-7 .img-service{
-    margin-left: 20px;
-}
-iframe{
-    width: 400px;
-    margin-left: -100px;
- }
- .sec-7 .card1-s{
-   
-    height: 358px;
-}
-.sec-7 .card2-s{
-    background-color: orange;
-    color: #fff;
-    height: 358px;
-}
+  
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left:50px;
 }
  
-
-@media only screen and  (min-width:400px) and  (max-width:450px){
-    .navbar-brand h3{
-        margin-left: -20px;
-    }
- .img-vission{
-        position: absolute;
-        left: 220px;
-        top: 1980px;
-        border: 10px solid orange;
-    }
-     .img-mission{
-    position: absolute;
-    top:2410px;
-    border: 10px solid orange;
-    left: 10px;
-    width: 150px;
-    }
-    .mission{
-    position: absolute;
-    top:2180px ;
-    left:70px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-    margin-top: 480px;
-margin-left: -110px;
-}
-.sec-7 .card3{
-    margin-top: 20px;
-    margin-left: 110px;
-}
-.footer .footer-panel3 .cont2 span{
-font-size: 10px;
-}
-.hood{
-    margin-left:-215px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height:700px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height:700px;
-}
-.sec-5{
-    height: 450px;
-}
-.sec-7 .card1-s{
-   
-    height: 358px;
-}
-.sec-7 .card2-s{
-    background-color: orange;
-    color: #fff;
-    height: 358px;
-}
-.sec-7 .img-service{
-    margin-left: 20px;
-}
-
- .hood-aboute{
-    border-radius: 8px;
-    margin-left: -183px;
-    margin-top: 100px;
-
- }
- iframe{
-    width: 400px;
-    margin-left: -100px;
- }
+.sec-7 .card-2-2{
+    margin-top: 10px;
+    margin-left:50px;
 }
  
-
-
-
-@media only screen and  (min-width:350px) and  (max-width:400px){
-    .navbar-brand h3{
-        margin-left: -20px;
-    }
- .img-vission{
-        position: absolute;
-        left: 220px;
-        top: 1980px;
-        border: 10px solid orange;
-    }
-    .sec-7 .card1-s{
-   
-    height: 358px;
+.sec-7 .card-1-1{
+    margin-top: 10px;
+    margin-left:50px;
 }
-.sec-7 .card2-s{
-    background-color: orange;
-    color: #fff;
-    height: 358px;
+.start{
+    margin-left: -2px;
+    padding-top: 50px;
+    
 }
-     .img-mission{
-    position: absolute;
-    top: 2400px;
-    border: 10px solid orange;
-    left: 10px;
-    width: 130px;
-    }
-    .mission{
-    position: absolute;
-    top:2180px ;
-    left:70px ;
-     font-family: cursive;
-    color: orange;
-}
-.p-mission{
-    margin-top: 480px;
-margin-left: -110px;
-}
-.sec-7 .card3{
+.button 
+{
+    
     margin-top: 20px;
-    margin-left: 110px;
+    margin-left: -2px;
 }
-.footer .footer-panel3 .cont2 span{
-font-size: 10px;
-}
-.hood{
-    margin-left:-215px;
-}
-.sec-3 .about{
-    margin-left: -28px;
-}
-.sec-7 .card1{
-   
-    height:700px;
-}
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height:700px;
-}
-.sec-5{
-    height: 450px;
-}
-
-.sec-7 .img-service{
+.header{
+    background-color: #0C0542;
+    height: 100px;
+ }
+ .header-1{
     margin-left: 20px;
-}
-
- .hood-aboute{
-    border-radius: 8px;
-    margin-left: -183px;
-    margin-top: 100px;
-
+    color: #fff;
+    padding: 7px;
  }
- iframe{
-    width: 400px;
-    margin-left: -100px;
+ .header-1 h5{
+    font-size: 12px;
  }
+  .header-1 .icon-header{ 
+color: orange;
+font-size: 15px;
+  }
+ .header-1 p{
+    position: absolute;
+    margin-top: -30px;
+    font-size: 10px;
+ }
+ .header-pass .header-1{
+    margin-top: 3px;
+     margin-left: -3px;
+    color: #fff;
+    padding: 25px;
+    border-right:1px solid #fff ;
+ }
+
 }
- 
-
-
-

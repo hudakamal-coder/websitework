@@ -2,32 +2,48 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+     object-fit: cover;
+     
 } 
- 
+ .sec-1{
+    height: 90px;
+    background-color:#0C0542;
+ }
 .navbar-brand img{
  margin-top: -5px;
 
 }
-.logoweb{
-  background: linear-gradient(to right ,#e66465, #303143);
+
+.navbar-brand h3{
+ margin-left: -29px;
+ color:rgb(255, 145, 0);
+
 }
-.logoweb h3{
-    color: white;
-    font-weight: bolder;
+
+.navbar-brand p{
+  position: absolute;
+  font-size: 10px;
+  color: #fff;
+  left: 100px;
+  top: 40px;
+
 }
- .navbar{
-    background-color:#fff;
-}
-.nav-item .active{
+  
+ 
+.nav-item .nav-link {
+    color: #fff;
     font-weight: bold;
+    margin-left:20px ;
+    margin-top: -9px;
 }
-
-
-.nav-item .nav-link.active:hover{
+.nav-item .nav-link:hover{
 color: orange;
 }
 
- 
+ .navbar-toggler .fa-bars{
+    color: #d26205;
+    font-size: 50px;
+ }
 .call{
     text-decoration: none;
     border: 1px solid orange;
@@ -35,48 +51,220 @@ color: orange;
     font-weight: bold;
     border-radius: 5px;
     color: rgb(255, 111, 0);
+    margin-right: 20px;
+    margin-top: -9px;
 }
-.c-item{
+.sec-2{
     height: 500px;
+    background-image: url("image/p20.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter:brightness(0.9);    
 }
-.c-img{
-    height: 100%;
-    object-fit: cover;
-    filter:brightness(0.6);
+.sec-2 h2{
+    font-weight: bolder;
+    padding: 10px;
+    color: #fff;
 }
-
-.overview{
-    height: 120px;
-    background-color: rgb(236, 232, 232);
+.sec-2 p{
+    color: #fff;
+    font-weight: bold;
+}
+.start{
+    margin-left: 130px;
+    padding-top: 50px;
+    
+}
+.header{
+    background-color: #0C0542;
+    height: 90px;
  }
-
- .mssb{
-    color: orange;
-    font-weight: bolder;
+ .header-1{
+    margin-left: 40px;
+    color: #fff;
+    padding: 10px;
  }
- .modal-title{
-    font-weight: bolder;
-    color: orangered;
+ .header-1-1{
+    margin-left: 40px;
+    color: #fff;
+    padding: 10px;
+    margin-top: -200px;
  }
- .modal-body h2{
-   color: orange;
-    font-weight: bolder;  
+  .header-1 .icon-header{ 
+color: orange;
+  }
+ .header-1 p{
+    position: absolute;
+    margin-top: -30px;
+    font-size: 10px;
  }
-
- .about{
-    border-radius: 6px;
-    margin-top: 30px;
-   
- }
+  .p-about{
+    margin-top: 35px;
+}
 .sec-3{
 background-color: rgb(205, 203, 203);
+height: 365px;
+  
+}
+.sec-3 .image{
+    margin-top: -23px;
+    margin-left: 70px;
+}
+.header-pass{
+    background-color: #0C0542;
+    height: 100px;
  }
- .hood{
-    border-radius: 8px;
-    margin-left: 50px;
+ .header-pass .header-1{
+    margin-top: 3px;
+     margin-left: 20px;
+    color: #fff;
+    padding: 25px;
+    border-right:1px solid #fff ;
+ }
 
- }
  
+.part-about{
+    height: 350px;
+    background-image: url("image/p20.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ .sec-4 h2{
+        font-family: cursive;
+        color: orange;
+    }
+    .sec-4 p{
+        font-weight: bold;
+        word-spacing: 3px;
+    }
+
+    
+.sec-5{
+    background-color:rgb(205, 203, 203) ;
+    height: 350px;
+}
+.part-service{
+    height: 200px;
+    background-image: url("image/p20.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.part-service p{
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.part-service h1{
+    color: #d26205;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bolder;
+}
+.part-about p{
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.part-about h1{
+    color: #fff;
+    padding: 1px;
+    border-bottom:5px solid #d26205;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 220px;
+}
+.part-1 h5{
+    width: 200px;
+    border-bottom:2px solid #d26205;
+    padding-bottom: 3px;
+}
+.part-about2{
+    background-color: rgb(244, 242, 242);
+    height: 600px;
+}
+ .part-about2 .part-1{
+    margin-top: -35px;
+}
+  .part-about2 .part-1 .icon-part1{
+    color: #d26205;
+    font-size: 40px;
+    
+  }
+  .part-about2 .part-1 .icon-part{
+    color: #d26205;
+    font-size: 35px;
+    border: 1px solid rgb(2, 2, 47);
+    padding: 8px;
+    border-radius: 50%;
+    background-color: #0C0542;
+  }
+  .part-about2 .part-1 h5{
+    color: #210867;
+    font-weight: bolder;
+  }
+  .value{
+    border-radius: 8px;
+    height: 180px;
+    background-color: rgb(235, 233, 233);
+  }
+  .value h3{
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 16px;
+    color: #0C0542;
+    font-weight: bold;
+    border-bottom: 3px solid orange;
+  }
+  .value .value-icon{
+    color: #d26205;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 23px;
+  }
+  .value h6{
+    color: #210867;
+    font-weight: bolder;
+  }
+
+.button 
+{
+    
+    margin-top: 20px;
+    margin-left: 130px;
+}
+.button .btn-1{
+     border: none;
+    background-color:#d26205;
+    color: #fff;
+    font-weight: bolder;
+    width: 100px;
+    padding: 8px;
+    text-decoration: none;
+}
+.button .btn-2{
+     border: 1px solid #fff;
+    
+    color: #fff;
+    font-weight: bolder;
+    width: 100px;
+    padding: 8px;
+    text-decoration: none;
+}
+ 
+  
+ 
+ .h2-service{
+    background-color: #0C0542;
+    padding: 20px;
+    height: 120px;
+    color: orange;
+    
+ }
  .hood-aboute{
     border-radius: 8px;
     margin-left: 50px;
@@ -84,9 +272,37 @@ background-color: rgb(205, 203, 203);
 
  }
  
- .about0{
-    height: 1000px;
+  .header-ser{
+    background-color: #a2a1a5;
  }
+ 
+  .sec-contact{
+    background-color:#1C398E;
+  }
+   .icon-contact h5{
+    font-weight: bolder;
+   }
+  .icon-contact .icon-con{
+    color: #d26205;
+    font-size: 30px;
+     
+  }
+  .p-contact{
+    margin-left: 20px;
+  }
+  .sec-contact h2{
+    color: #fff;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+  .sec-contact p{
+    color: #fff;
+     margin-top: 15px;
+    margin-left: 15px;
+  }
+ 
+  
  .abouttext{
      font-size: 38px;
     font-weight: 700;
@@ -99,44 +315,7 @@ background-color: rgb(205, 203, 203);
      font-size: 38px;
     font-weight: 700;
     }
-    .sec-4 h2{
-        font-family: cursive;
-        color: orange;
-    }
-    .sec-4 p{
-        font-weight: bold;
-        word-spacing: 3px;
-    }
-
-    .img-vission{
-        position: absolute;
-        left: 850px;
-        top: 1400px;
-        border: 10px solid orange;
-    }
-.sec-5{
-    background-color:rgb(205, 203, 203) ;
-    height: 350px;
-}
-
-.mission{
-    position: absolute;
-    top:1680px ;
-    left:800px ;
-     font-family: cursive;
-        color: orange;
-}
-.p-mission{
-    position: absolute;
-    top:1750px ;
-     font-weight: bold;
-        word-spacing: 3px;
-}
-.img-mission{
-    position: absolute;
-    top: 1700px;
-  border: 10px solid orange;
-}
+    
 
 .sec-6 h2{
     font-size: 38px;
@@ -148,20 +327,32 @@ background-color: rgb(205, 203, 203);
 .sec-6 span{
     color: orange;
 }
-
-.sec-7 .img-service{
-    margin-left: 95px;
+ 
+.sec-7 .card{
+   background-color:#fff;
+    height: 630px;
+    color: rgb(5, 7, 86);
+    list-style-type: none;
 }
-.sec-7 .card1{
+ .sec-7 .card{
+    width: 18rem;
+ }
+.sec-7 .card .card-text li{
    
-    height: 358px;
+    list-style-type: none;
 }
-.sec-7 .card2{
-    background-color: orange;
-    color: #fff;
-    height: 358px;
+.card-text .fa-circle-info{
+    margin-right: 10px;
+    margin-top: 13px;
+    color: #d26205;
 }
-
+ .card-text .fa-medal{
+    font-size: 30px;
+    color: #d26205;
+    margin-top: 18px;
+    margin-right: 20px;
+ }
+ 
 .sec-7 span{
     color: orange;
 }
@@ -175,7 +366,7 @@ background-color: rgb(205, 203, 203);
 .footer{
     color: white;
     height: 500px;
-    background-color: #9a9da2;
+    background-color:#0C0542;
 
 }
 
@@ -205,7 +396,7 @@ background-color: rgb(205, 203, 203);
     justify-content: center;
     align-items: center;
     font-weight: bolder;
-    color: #e66465;
+    color:orange;
 }
 
 .footer .footer-panel3 .cont2{
@@ -217,7 +408,7 @@ background-color: rgb(205, 203, 203);
 .footer .footer-panel3 .cont2 span{
     margin: 15px;
     font-size: 20px;
-    color: black;
+    color: #fff;
 }
 .footer .footer-panel3 .cont2 span:hover{
     
@@ -230,16 +421,8 @@ background-color: rgb(205, 203, 203);
     align-items: center;
     
 }
-.f-ser{
-    margin-top: 400px;
-}
-.f-ab{
-     margin-top: 300px;
-     
-}
-.f-con{
-    margin-top: 250px;
-}
+ 
+ 
 .footer .footer-panel4 .copyright p{
     margin-top: 40px;
 }

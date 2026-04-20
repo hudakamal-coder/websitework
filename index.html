@@ -5,43 +5,35 @@
     <title>MPS.COM</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="media.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 </head>
 <body>
     
-   <!--logo and name company-->
-   <section class="container-fluid">
-   <div class="row base1">
-   <div class="logoweb">
-   <a class="navbar-brand d-flex justify-content-center align-items-center mt-3" href="#"><img src="image/logo.png" width="130px"><h3 class="text-center text-uppercase">mesopotamia services</h3></a>
-   </div>
-   <!--end logo and name company-->
-  <!--sec 1-->
-   <section class="container-fluid" id="sec-1">
+   <!--sec 1-->
+   <section class="container-fluid sec-1">
    <div class="row">
  <nav class="navbar navbar-expand-lg">
+   <a class="navbar-brand d-flex" href="index.html"><img src="image/logo.png" width="130px"><h3 class="text-uppercase">MPS </h3>
+    <p>Mesopotamia <br> Service</p>
+  </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+     <i class="fa-solid fa-bars"></i>
     </button>
    <div class="container">
     <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-      
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav m-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html"><i class="fa-solid fa-house"></i> Home</a>
+          <a class="nav-link" aria-current="page" href="index.html">Home</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="about.html"><i class="fa-solid fa-circle-info"></i> About</a>
+          <a class="nav-link " aria-current="page" href="about.html">About</a>
         </li>
           <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="service.html"><i class="fa-solid fa-bolt"></i> Service</a>
-        </li>
-          <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#vission"><i class="fa-solid fa-brain"></i> Vision&Mission</a>
+          <a class="nav-link " aria-current="page" href="service.html">Service</a>
         </li>
       </ul>
-       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+       <ul class="navbar-nav ms-auto mb-4">
         <li class="nav-item">
            <a href="contact.html" class="call" ><i class="fa-solid fa-phone"></i> Contact Us</a>
         </li>
@@ -52,146 +44,88 @@
 </div>
 </section>
 <!--end sec 1 navbar-->
-<!--main sec 2 -->
-<section id="sec-2">
- <main>
-  <!-- modal-->
-<div class="modal fade" tabindex="-1" id="modalbutton">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Why Choose Us ?!</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-       <h2>MPS Company</h2>
-            <dl>
-                <dt>STRATEGIC LOCATION IN KIRKUK.</dt>
-                <dd>- enables rapid deployment and cost-efficient operation near major field.</dd>
-                 <dt>LOCAL KNOWLEDGE, GLOBAL STANDARDS.</dt>
-                <dd>- We navigate Iraq’s legal, cultural, and business landscape with precision..</dd>
-                 <dt>ONE-STOP-SHOP SERVICES.</dt>
-                <dd>- Our integrated services reduce vendor dependency, minimize complexity, and provide you with complete operational control..</dd>
-                 <dt>HSSE COMMITMENT.</dt>
-                <dd>- We maintain global best practices in Health, Safety, Security & Environment.</dd>
-            </dl>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">OK</button>
-      </div>
-        </div>
-    </div>
-  </div>
-</div>
-<!--end modal-->
-<!-- carousel-->
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active c-item">
-      <img src="image/p8.jpg" class="d-block w-100 c-img" alt="...">
-      <div class="carousel-caption  d-md-block top-0 mt-5">
-        <h2 class="display-1  fw-bolder ">Mesopotamia Services</h2>
-        <h2 class="text-uppercase mt-3 mssb">mps</h2>
-        <button type="button" class="btn btn-primary fs-5 py-2 px-4 mt-3"
-        data-bs-toggle="modal" data-bs-target="#modalbutton"
-        >Why Choose Us</button>
-      </div>
-    </div>
-    <div class="carousel-item c-item">
-      <img src="image/p3.jpg" class="d-block w-100 c-img" alt="...">
-          <div class="carousel-caption  d-md-block top-0 mt-5">
-         <h2 class="display-1  fw-bolder ">Mesopotamia Services</h2>
-        <h2 class="text-uppercase mt-3 mssb">mps</h2>
-        <button type="button" class="btn btn-primary fs-5 py-2 px-4 mt-3"
-        data-bs-toggle="modal" data-bs-target="#modalbutton"
-        >Why Choose Us</button>
-      </div>
-    </div>
-    <div class="carousel-item c-item">
-      <img src="image/p4.jpg" class="d-block w-100 c-img" alt="...">
-         <div class="carousel-caption  d-md-block top-0 mt-5">
-        <h2 class="display-1  fw-bolder ">Mesopotamia Services</h2>
-        <h2 class="text-uppercase mt-3 mssb">mps</h2>
-         <button type="button" class="btn btn-primary fs-5 py-2 px-4 mt-5"
-        data-bs-toggle="modal" data-bs-target="#modalbutton"
-        >Why Choose Us</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!--end carousel-->
- </main>
-</section>
+ 
+  
+ 
 <!--end sec 2--> 
+ <section class="container-fluid py-4 sec-2">
+<div class="row">
+<div class="col-lg-6 col-sm-6 col-md-6 col-12 start">
+<h2>RELIABLE 
+SERVICES <br>& <span style="color: rgb(255, 149, 0);">SOLUTIONS</span></h2>
+<p>Delivering high-quality equipment, skilled manpower, 
+and technical support across Iraq's energy sector with safety,<br> reliability, 
+and efficiency.</p>
+</div>
+</div>
+<div class="button">
+   <a href="contact.html" class="btn-1">Contact Us</a>
+    <a href="about.html" class="btn-2">About Us</a>
+</div>
+ </section>
+ <!--sec end 2-->
+<!--header-->
+  <section class="container-fluid header">
+<div class="d-flex justify-content-around ">
+  <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-anchor-circle-check"></i> Safety First</h5><br>
+  <p>We Prioritze The Safety Of <br> Our People and <br> Operation</p>
+  </div>
+  <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-shield-halved"></i> Quality Assured</h5><br>
+  <p>We Deliver high-Quality <br> Service The Meet International <br> Standarts</p>
+  </div>
+   <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-truck-fast"></i></i> On-Time Delivery </h5><br>
+  <p>Reliable Solushions <br> Delivered On Time .</p>
+  </div>
+</div>
+  </section>
+  <!--end header-->
 <!--sec 3-->
 <section class="container-fluid py-4 sec-3">
 <div class="container">
 <div class="row">
-<div class="col-lg-5 col-md-5 col-sm-5 col-6" >
-<img src="image/p11.jpg"  class="img-fluid about">
-</div>
-<div class="col-lg-7 col-sm-7 col-md-7 col-6">
-<h2 class=" mb-5 text-center abouttext"><span>A</span>bout MPS</h2>
-<p>
+  <div class="col-lg-6  col-md-7 col-sm-7 col-12">
+<h2 class="abouttext"><span>W</span>elcome MPS</h2>
+<p class="p-about">
 Mesopotamia Service  (MPS) is a leading Iraq- based service and supply provider headquartered in Kirkuk,
  the heart of Iraq’s energy sector. We offer integrated services across oil and gas field support, 
  logistics, and facilities management.
 Our goal is to eliminate logistical bottlenecks and enhance operational efficiency for our clients in Iraq’s dynamic oil and gas sector.
  With deep local expertise, world-class safety practices, and a reliable network, MPS bridges operational needs with efficient, high-impact solutions.
 </p>
- <img src="image/hood.png" alt="" width="400px" class="hood">
-
+</div>
+<div class="col-lg-6 col-md-5 col-sm-5 col-12" >
+<img src="image/p2.jpg"  class="img-fluid image" >
+</div>
 </div>
 </div>
 </div>
 </section>
 <!--end sec 3-->
- <!-- sec 4-->
- <section class="container-fluid py-4 sec-4" id="vission">
-<div class="container">
-<div class="row">
-<div class="col-lg-6 col-sm-8 col-6" >
- <h2 class=" fs-1 fw-bold mb-5"><i class="fa-solid fa-1"></i>. Vission</h2>
- 
-<p>
-MTo become the most trusted, indispensable, 
-and innovative partner for oil and gas companies across Iraq—recognized for our excellence, 
-safety, and strategic support in field operations.
-</p>
-</div>
-<div class="col-lg-4 col-sm-4 col-6">
-<img src="image/pp10.jpg" width="170px" class="img-vission">
-</div>
-</div>
-</div>
- </section>
-<!--end sec 4-->
-<!-- sec 5-->
- <section class="container-fluid py-5 sec-5 mt-5">
-<div class="container">
-<div class="row">
-<div class="col-lg-4 col-sm-4 col-4">
-<img src="image/p6.jpg" width="200px" class="img-mission">
-</div>
-<div class="col-lg-7 col-sm-8 col-8" >
- <h2 class=" fs-1 fw-bold mb-5 mission"><i class="fa-solid fa-2"></i>. Mission</h2>
- 
-<p  class="p-mission">
-MPS delivers high-quality services and supplies tailored to the evolving needs of Iraq’s oil and gas sector.
- We leverage strong infrastructure, experienced teams,
-  and a client-first approach to ensure operational excellence and sustainable growth for our partners.
-</p>
-</div>
-</div>
-</div>
- </section>
-<!--end sec 5-->
 
-<!-- sec 6-->
+  <section class="container-fluid header-pass">
+<div class="d-flex justify-content-around ">
+  <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-anchor-circle-check"></i> 10+</h5><br>
+  <p>Experience</p>
+  </div>
+  <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-shield-halved"></i> 100+</h5><br>
+  <p>Skilled Profeshional</p>
+  </div>
+   <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-briefcase"></i> 50+</h5><br>
+  <p>Succuseful Project</p>
+  </div>
+   <div class="header-1">
+  <h5><i class="fa-solid icon-header fa-location-dot"></i> Kirkuk , Iraq</h5><br>
+  <p>Operating Base</p>
+  </div>
+</div>
+  </section>
+  <!--sec 6-->
  <section class="container-fluid mt-5 sec-6">
 <div class="container">
 <div class="row">
@@ -200,7 +134,7 @@ MPS delivers high-quality services and supplies tailored to the evolving needs o
 </div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-8 col-12">
+<div class="col-lg-8 col-sm-8 col-md-8 col-12">
  <ul class="nav nav-tabs d-flex justify-content-center" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">1</button>
@@ -272,49 +206,93 @@ MPS delivers high-quality services and supplies tailored to the evolving needs o
 <h2 class=" text-center fw-bold mb-5"><span>Our</span> Services</h2>
 </div> 
 </div>
+
 <div class="row">
-<div class="col-lg-4  col-sm-6 col-md-6 col-6">
-    <div class="card p-4 shadow card1">
-       <img src="image/contractor.png" width="80px" class="img-service">
-     <h3 class="card-title mt-3">Oil and Gas Field Services and Supplies</h3>
-     <ul class="card-text">
-      <li>Spare parts, tools, PPE, valves, and consumables</li>
-      <li>Electrical equipment, pumps, pipes, fittings, hoses, and lifting accessories </li>
-      <li>Procurement and on-site field logistics</li>
-     </ul>
-    </div>
-</div>
-<div class="col-lg-4 col-sm-6 col-6">
- <div class="card p-4 shadow card2">
-    <img src="image/oil-mining.png" width="80px" class="img-service">
-     <h3 class="card-title mt-2">Logistics & Transportation</h3>
+<div class="col-lg-4  col-sm-6 col-md-6 col-12 card-1-1">
+   <div class="card shadow" >
+  <img src="image/pp6.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Oil and Gas Field Services and Supplies</h5>
     <ul class="card-text">
-      <li>Heavy haulage, flatbeds, tanker transport, and crane</li>
-      <li>Customs clearance, freight forwarding </li>
-      <li>Storage & warehouse management </li>
-      <li>Inventory control & material tracking</li>
+    <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Spare parts, tools, PPE, valves, and consumables</li>
+    </div>
+       <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Electrical equipment, pumps, pipes, fittings, hoses, and lifting accessories </li>
+    </div>
+     <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Procurement and on-site field logistics</li>
+    </div>
+     <div class="d-flex">
+       <i class="fa-solid fa-medal"></i><li><h4>QUALITY ASSURED</h4></li>
+    </div>
+    <p>product are sourced from trusted manufucturers <br>
+      to meet international quality standards.
+    </p>
      </ul>
-    </div>   
+  </div>
 </div>
-<div class="col-lg-4 col-sm-6 col-6 card3">
-     <div class="card p-4 shadow ">
-    <img src="image/assets.png" width="80px" class="img-service">  
-     <h3 class="card-title mt-2">Accommodation & Facility Management</h3>
-      <ul class="card-text">
-      <li>Furnished offices and residential rentals </li>
-      <li>Full-service camp management: catering, housekeeping, waste, utilities </li>
-      <li>Facility maintenance and utility services </li>
-      
+</div>
+<div class="col-lg-4  col-sm-6 col-md-6 col-12 card-2-2">
+   <div class="card  shadow" >
+  <img src="image/pp9.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Logistics & Transportation</h5>
+   <ul class="card-text">
+    <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Heavy haulage, flatbeds, tanker transport, and crane</li>
+    </div>
+       <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Customs clearance, freight forwarding /li>
+    </div>
+      <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Storage & warehouse management </li>
+    </div>
+     <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Inventory control & material tracking</li>
+    </div>
+     <div class="d-flex">
+       <i class="fa-solid fa-medal"></i><li><h4>ON-TIME EVERY TIME.</h4></li>
+    </div>
+    <p>reliable logistics solutions that keep your operations <br>
+      moving without delays.
+    </p>
      </ul>
-    </div>   
+  </div>
 </div>
+</div>
+<div class="col-lg-4  col-sm-6 col-md-6 col-12 card-3-3">
+   <div class="card  shadow" >
+  <img src="image/p8.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Accommodation & Facility Management</h5>
+   <ul class="card-text">
+    <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Furnished offices and residential rentals </li>
+    </div>
+      <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Full-service camp management: catering, housekeeping, waste, utilities</li>
+    </div>
+     <div class="d-flex">
+       <i class="fa-solid fa-circle-info"></i><li>Facility maintenance and utility services</li>
+    </div>
+    <div class="d-flex">
+       <i class="fa-solid fa-medal"></i><li><h4>COMFORT.<br>SAFETY.RELIABLE</h4></li>
+    </div>
+    <p>we create safe ,clean ,and comfortable spaces <br>
+      so youre teams can focus on what matters.
+    </p>
+     </ul>
+     </div>
+  </div>
+  </div>
 </div>
 </div>
 </section>
 
 
 <!--end sec 7-->
-
+  
 <div class="footer mt-3" id="footer">
   <div class="footer-panel1">
         <div class="logo">
@@ -331,18 +309,14 @@ MPS delivers high-quality services and supplies tailored to the evolving needs o
         <div class="contact">
             <h5>Contact Us</h5>
         </div>
-         <div class="cont2">
+         <div class="cont2 mt-5">
           <span><i class="fa-solid fa-phone"></i> +9647703759725</span>
           <span><i class="fa-solid fa-envelope"></i> info@mps-iraq.com</span>
           <span><i class="fa-solid fa-location-dot"></i> 603 , 6th Floor,Centrum Mall, Kirkuk, Iraq</span>
          </div>
       </div>
-      <div class="footer-panel4">
-         <div class="copyright">
-        <p>@CopyRight | 2026 Develop By Huda Kamal.</p>
-         </div>
-      </div>
 </div>
+
 
 
 
