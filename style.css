@@ -9,12 +9,17 @@
     height: 90px;
     background-color:#0C0542;
  }
+ .sec-1 .navbar-toggler .bar{
+    color: #d26205;
+    font-size: 30px;
+ }
 .navbar-brand img{
  margin-top: -5px;
 
 }
 
 .navbar-brand h3{
+    margin-top: -5px;
  margin-left: -29px;
  color:rgb(255, 145, 0);
 
@@ -24,11 +29,18 @@
   position: absolute;
   font-size: 10px;
   color: #fff;
-  left: 100px;
+  left: 180px;
   top: 40px;
 
 }
-  
+.offcanvas p{
+    color: #210867;
+}
+  .offcanvas-body .nav-item .nav-link{
+    color: #210867;
+    font-size: 20px;
+    padding: 10px;
+  }
  
 .nav-item .nav-link {
     color: #fff;
@@ -40,10 +52,7 @@
 color: orange;
 }
 
- .navbar-toggler .fa-bars{
-    color: #d26205;
-    font-size: 50px;
- }
+  
 .call{
     text-decoration: none;
     border: 1px solid orange;
@@ -55,6 +64,7 @@ color: orange;
     margin-top: -9px;
 }
 .sec-2{
+    
     height: 500px;
     background-image: url("image/p20.jpg");
     background-position: center;

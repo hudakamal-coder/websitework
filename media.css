@@ -91,7 +91,9 @@ height: 305px;
  .p-about{
     margin-top: 20px;
 }
- 
+ .seccontact iframe{
+    margin-left: -120px;
+}
 .sec-3 .image{
 margin-top: -23px; 
 margin-left: 28px;
@@ -234,11 +236,18 @@ height: 350px;
 .footer .footer-panel3 .cont2 span{
 font-size: 16px;
 }
- 
+ .footer .footer-panel1{
+    margin-top: 65px;
+}
 .sec-7 .card-3-3{
     margin-top: 10px;
     margin-left: 200px;
 }
+ .value{
+    border-radius: 8px;
+    height: 200px;
+    background-color: rgb(235, 233, 233);
+  }
 }
  
 
@@ -262,10 +271,15 @@ font-size: 16px;
 background-color: rgb(205, 203, 203);
 height: 380px;
 }
+.footer .footer-panel1{
+    margin-top: 65px;
+}
 .footer .footer-panel3 .cont2 span{
 font-size: 16px;
 }
-  
+ .value h3{
+    margin-left: -10px;
+ } 
 .sec-7 .card-3-3{
     margin-top: 10px;
     margin-left: 150px;
@@ -346,19 +360,43 @@ font-size: 13px;
     background-color: rgb(244, 242, 242);
     height: 1800px;
 }
+.navbar-brand img{
+ margin-top: -5px;
+
+}
+.offcanvas p{
+    color: #210867;
+}
+.navbar-brand h3{
+    margin-top: -5px;
+ margin-left: -29px;
+ color:rgb(255, 145, 0);
+
+}
+
+.navbar-brand p{
+  position: absolute;
+  font-size: 10px;
+  color: #fff;
+  left: 110px;
+  top: 40px;
+
+}
  .value{
     border-radius: 8px;
     height: 630px;
     background-color: rgb(235, 233, 233);
   }
 .sec-3 .image{
-  display: none;
+  margin-left: -2px;
+  margin-top: 5px;
+   
 }
 .p-about{
     margin-top: -10px;
 }
 .seccontact iframe{
-    margin-left: 60px;
+    margin-left: 20px;
     width: 330px;
 }
 .abouttext{
@@ -367,7 +405,7 @@ font-size: 13px;
  
 .sec-3{
 background-color: rgb(205, 203, 203);
-height: 380px;
+height: 600px;
 }
 .footer .footer-panel3 .cont2 span{
 font-size: 12px;
@@ -429,5 +467,136 @@ font-size: 15px;
 .header-pass .header-1 p{
     margin-left: -15px;
  }
+ .seccontact .colcontact{
+    margin-left: 40px;
+ }
+}
+
+
+
+@media only screen and  (min-width:350px) and  (max-width:430px){
+
+    .part-about{
+background-image: none;
+ background-color:#1C398E;
+ height: 400px;
+    }
+    .part-about2{
+    background-color: rgb(244, 242, 242);
+    height: 1800px;
+}
+ .value{
+    border-radius: 8px;
+    height: 630px;
+    background-color: rgb(235, 233, 233);
+  }
+.sec-3 .image{
+  margin-left: -2px;
+  margin-top: 5px;
+   
+}
+.offcanvas p{
+    color: #210867;
+}
+.p-about{
+    margin-top: -10px;
+}
+.seccontact iframe{
+    margin-left: 7px;
+    width: 300px;
+}
+.abouttext{
+    margin-top: -6px;
+}
+ .navbar-brand img{
+ margin-top: -5px;
+
+}
+
+.navbar-brand h3{
+    margin-top: -5px;
+ margin-left: -29px;
+ color:rgb(255, 145, 0);
+
+}
+
+.navbar-brand p{
+  position: absolute;
+  font-size: 10px;
+  left: 110px;
+  top: 40px;
+
+}
+.sec-3{
+background-color: rgb(205, 203, 203);
+height: 600px;
+}
+.footer .footer-panel3 .cont2 span{
+font-size: 12px;
+}
+  
+.sec-7 .card-3-3{
+    margin-top: 10px;
+    margin-left:30px;
+}
  
+.sec-7 .card-2-2{
+    margin-top: 10px;
+    margin-left:30px;
+}
+ 
+.sec-7 .card-1-1{
+    margin-top: 10px;
+    margin-left:30px;
+}
+.start{
+    margin-left: -2px;
+    padding-top: 50px;
+    
+}
+.button 
+{
+    
+    margin-top: 20px;
+    margin-left: -2px;
+}
+.header{
+    background-color: #0C0542;
+    height: 100px;
+ }
+ .header-1{
+    margin-left: 20px;
+    color: #fff;
+    padding: 7px;
+ }
+ .header-1 h5{
+    font-size: 12px;
+ }
+  .header-1 .icon-header{ 
+color: orange;
+font-size: 15px;
+  }
+ .header-1 p{
+    position: absolute;
+    margin-top: -30px;
+    font-size: 10px;
+ }
+ .header-pass .header-1{
+    margin-top: 3px;
+     margin-left: -5px;
+    color: #fff;
+    padding: 30px;
+     width: 100px;
+   
+ }
+ .header-ser .header-1{
+     
+    padding-right: 11px;
+ }
+.header-pass .header-1 p{
+    margin-left: -27px;
+ }
+ .seccontact .colcontact{
+    margin-left: 40px;
+ }
 }
